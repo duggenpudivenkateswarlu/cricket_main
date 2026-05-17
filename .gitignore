@@ -1,0 +1,11 @@
+# Ignore generated or system files
+.DS_Store
+Thumbs.db
+*.log
+
+# Windows image file caches
+ehthumbs.db
+Icon?
+
+# VS Code workspace files
+.vscode/
